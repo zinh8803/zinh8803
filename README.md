@@ -2,7 +2,7 @@
 
 <h1 align="center">Ngô Quốc Vinh</h1>
 <p align="center">
-  <b>Backend Developer</b> — Laravel • Node.js • TypeScript • MySQL/PostgreSQL • Redis • Docker
+  <b>Backend Developer</b> — Laravel • Node.js • TypeScript • MySQL/MongoDB • Redis • Docker
 </p>
 <!-- <p align="center">
   <a href="mailto:<email_cua_cau>">Email</a> •
