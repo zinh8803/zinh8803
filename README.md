@@ -1,24 +1,23 @@
-﻿<!-- Banner -->
-
+<!-- Banner -->
 <h1 align="center">Ngô Quốc Vinh</h1>
 <p align="center">
   <b>Backend Developer</b> — Laravel • Node.js • TypeScript • MySQL/MongoDB • Redis • Docker
 </p>
 <!-- <p align="center">
-  <a href="mailto:<email_cua_cau>">Email</a> •
-  <a href="<link_portfolio>">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/<handle_linkedin>/">LinkedIn</a>
+  <a href="mailto:ngoquocvinh2003@gmail.com">Email</a> •
+  <a href="<portfolio_link>">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/<linkedin_handle>/">LinkedIn</a>
 </p> -->
 
 ---
 
-### 💡 About me
+### 💡 About Me
 
-- 4th-year IT student, định hướng backend, yêu **clean architecture**, **realtime**, **CI/CD**.
-- Làm tốt: **RESTful API chuẩn** `{status,message,data,errors}`, logging, test, deploy **VPS/Docker**.
-- Gần đây: **NestJS + TypeScript**, tối ưu SQL & caching, WebSocket/Redis.
+- Backend-focused developer with a passion for **clean architecture**, **realtime systems**, and **CI/CD pipelines**.
+- Proficient in building **standardized RESTful APIs** `{status, message, data, errors}`, structured logging, testing, and deploying on **VPS/Docker**.
+- Currently deepening expertise in **NestJS + TypeScript**, SQL optimization & caching, WebSocket/Redis.
 
-### 🛠 Tech stack
+### 🛠 Tech Stack
 
 <p>
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-EF3B2D?logo=laravel&logoColor=white">
@@ -32,24 +31,22 @@
   <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB">
 </p>
 
-### 🚀 Featured projects
+### 🚀 Featured Projects
 
-- **FlowerShop Platform** — e-commerce bán hoa, **realtime** (WebSocket), **queue/schedule**, phân quyền, tồn kho  
+- **FlowerShop Platform** — Full-featured e-commerce platform with **realtime** updates (WebSocket), **queue/scheduling**, role-based access control, and inventory management.  
   _Laravel, React, Redis, Docker, CI/CD_  
-  → API chuẩn hóa; log & audit; tối ưu truy vấn, cache category/product.
-- **Event Management System** — thực tập Hybrid Technology Vietnam  
+  → Standardized API responses; structured logging & audit trails; query optimization, category/product caching.
+
+- **Event Management System** — Built during internship at Hybrid Technology Vietnam.  
   _Laravel backend, Nuxt frontend, Docker_  
-  → CRUD, phân quyền, triển khai, GitFlow.
+  → CRUD operations, role-based permissions, VPS deployment, GitFlow workflow.
 
-### 📦 What I ship
+### 📦 What I Ship
 
-- JWT/Refresh Token • RBAC/Policy • Observability (logs/metrics)
-- Job queue & scheduled tasks • WebSocket/Redis events • Repository/Service pattern
-- Migrations/Seeder chuẩn • Unit/Feature tests • CI with GitHub Actions
+- JWT / Refresh Token • RBAC / Policy • Observability (logs & metrics)
+- Job queues & scheduled tasks • WebSocket / Redis events • Repository / Service pattern
+- Migrations & seeders • Unit / Feature tests • CI with GitHub Actions
 
 ### 📫 Contact
 
 **Email:** ngoquocvinh2003@gmail.com
-
-
-
