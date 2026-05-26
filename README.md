@@ -48,6 +48,15 @@
 - Job queues & scheduled tasks • WebSocket / Redis events • Repository / Service pattern
 - Migrations & seeders • Unit / Feature tests • CI with GitHub Actions
 
+### ✍ Latest Articles
+
+- Building CMS API with Yii2 + VueJS
+- Deploy Laravel/Yii2 to VPS using GitHub Actions
+- Queue & Redis in Yii2
+- SEO for Developer Blogs
+
+🌐 Read more: https://blogcuavinh.id.vn
+
 ### 📫 Contact
 
 **Email:** ngoquocvinh2003@gmail.com
