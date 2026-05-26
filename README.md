@@ -7,6 +7,7 @@
   <a href="mailto:ngoquocvinh2003@gmail.com">Email</a> •
   <a href="<portfolio_link>">Portfolio</a> •
   <a href="https://www.linkedin.com/in/<linkedin_handle>/">LinkedIn</a>
+  <a href="https://blogcuavinh.id.vn">Blog</a>
 </p> -->
 
 ---
@@ -50,3 +51,4 @@
 ### 📫 Contact
 
 **Email:** ngoquocvinh2003@gmail.com
+
